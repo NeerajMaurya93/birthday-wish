@@ -1,3 +1,1 @@
-%%writefile requirements.txt
-
 streamlit
